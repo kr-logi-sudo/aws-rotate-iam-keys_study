@@ -1,2 +1,5 @@
 *_source.*
 *.dsc
+__pycache__/
+*.pyc
+*.pyo
